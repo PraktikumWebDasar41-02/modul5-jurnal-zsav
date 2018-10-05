@@ -13,5 +13,4 @@ kurang dari lima kata munculkan pesan error
 1. Menggunakan Validasi Error dengan Fungsi String
 2. Inputan harus masuk ke database dengan konfigurasi :
 a. Nama Database : d_modul4
-b. Nama Tabel	 : 
-  	Untuk Soal Nomor 1 :t_jurnal1
+b. Nama Tabel	 : t_jurnal1
